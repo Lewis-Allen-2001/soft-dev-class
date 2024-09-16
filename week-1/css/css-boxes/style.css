@@ -1,0 +1,50 @@
+* {
+  font-size: bold;
+  height: 500px;
+  width: 500px;
+  box-sizing: border-box;
+}
+.box {
+  background: #f2e204;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border: 10px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.box2 {
+  background: #000dff;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border: 10px ridge black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.box3 {
+  background: #ff00fb;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border: 10px dotted black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.p {
+  background: #5aa534;
+  padding: 20px;
+  width: 2200px;
+  height: 2200px;
+  border: 10px ridge black;
+  margin: 10px;
+  padding: 10px;
+}
+
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
