@@ -18,7 +18,7 @@ useEffect(() => {
 
     return(
         <div>
-<p>{cookies}</p>
+<p>Cookies: {cookies}</p>
         </div>
     )
 }
