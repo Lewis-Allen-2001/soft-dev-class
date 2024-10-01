@@ -1,0 +1,8 @@
+.h1{
+    display: flex;
+    justify-content: center;
+    border: 50px;
+    border-radius: 20px;
+    background-color: rgb(252, 252, 252);
+    color: black;
+}
