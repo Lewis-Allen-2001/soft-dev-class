@@ -11,8 +11,6 @@ export default function Cheese() {
     return (
         <div>
             <p>The {cheeseName} page!</p>
-            
-
             <Outlet />
         </div>
     )

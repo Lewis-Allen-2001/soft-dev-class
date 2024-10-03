@@ -11,6 +11,7 @@ export default function App() {
     <TimerDirty/>
     <TimerClean/>
     <p>Now they both clean hehe</p>
+    <img src = "https://c.tadst.com/gfx/300x168/fb-stopwatch2.png?1"/>
     </div>
   )
 }
